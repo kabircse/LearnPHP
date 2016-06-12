@@ -1,6 +1,6 @@
  
  
- Object-oriented programming (OOP) is a programming paradigm that uses objects and their interactions to design applications and computer programs.
+ Object-oriented programming (OOP) is a programming model that uses objects and their interactions to design a computer programs.
 
 The basic programming concepts in OOP are:
 
