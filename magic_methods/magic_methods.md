@@ -4,7 +4,7 @@
         
         
     Some Magic Method Description:
-    __construct:	This magic methods is called when someone create object of your class. Usually this is used for creating constructor in php5.
+    __construct:	Constructor is automatically called when the object is created. The purpose of the constructor is to initiate the state of the object.
     __destruct:	This magic method is called when object of your class is unset. This is just opposite of __construct.
     __get: takes one argument and executes when any inaccessible or unavailable property of the method is called. It takes name of the property as argument.
     __set: takes two property and executes when object try to set value in inaccessible property. It take first parameter as name of the property and second as the value which object is try to set.
