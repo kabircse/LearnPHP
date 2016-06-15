@@ -15,7 +15,7 @@
          
          The basic programming concepts in OOP are:
              1. Abstraction: Abstraction is hiding the information or providing only necessary details to the client.
-             2. Polymorphism: One name many forms.
+             2. Polymorphism: The process of using an operator or function in different ways for different data input.
              3. Encapsulation: Wraping up member variables and member functions together into a single unit(ie.Class);
              4. Inheritance: When a class acquire the property of another class is known as inheritance.
      
