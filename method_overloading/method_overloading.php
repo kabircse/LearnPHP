@@ -1,5 +1,5 @@
 <?php
-        /* Method Overloading: Method Overloading means multiple methods with same name but with different parametres.*/
+/* Method Overloading: Method Overloading means multiple methods with same name but with different parametres.*/
         
         class Sum {
             public function getSum() {
