@@ -21,4 +21,4 @@
      
         Polymorphism can be achived by two ways:
           1. Method Overloading: Multiple methods with same name but different parameters in a class.
-          2. Method Overriding: The parent and child classes has same method name.
+          2. Method Overriding: Creating same method to child class.
