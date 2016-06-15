@@ -1,5 +1,5 @@
 <?php
-        /* Method Overloading: Method Overloading means several methods with same name but different input parametre.*/
+        /* Method Overloading: Method Overloading means multiple methods with same name but with different parametres.*/
         
         class Sum {
             public function getSum() {
@@ -16,10 +16,10 @@
         }
         
         $s = new Sum();
-        echo $s->getSum() . "\n" ;
-        echo $s->getSum(5) . "\n" ;
-        echo $s->getSum(3, 4) . "\n" ;
-        echo $s->getSum(3, 4, 7) . "\n" ;
+        echo $s->getSum() . "\n" ;//no parameter
+        echo $s->getSum(5) . "\n" ;//1 parameter
+        echo $s->getSum(3, 4) . "\n" ;//2 parameter
+        echo $s->getSum(3, 4, 7) . "\n" ;//3 parameter
 /*
     Output:
     0
