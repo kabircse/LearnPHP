@@ -18,8 +18,8 @@
           $a = new MagicMetod1();
           $a->abc = 3;//__set will be called/triggerd/executed
           $a->pqr;//__get will be called
-          $a->getMyName('ankur' , 'techflirt', 'etc');//__call will be executed
-          MagicMetod1::xyz('1' , 'qpc' , 'test');//__callstatic will be executed
+          $a->getMyName('Kabir' , 'Hossain', '28');//__call will be executed
+          MagicMetod1::xyz('Monir' , 'Hossain' , '29', 'B-Baria');//__callstatic will be executed
           
           
     //Output:
